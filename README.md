@@ -1,13 +1,10 @@
-# business-supply-express-db
-
-
-# 📦 Business Supply Express – Database Systems Project
+# Business Supply Express – Database Systems Project
 
 **Business Supply Express** is a database-driven delivery system designed to track users and product logistics. Developed using **SQL** and **MySQL Workbench**, this project focuses on creating a scalable, relational data model using an Enhanced Entity Relationship Diagram (EERD), efficient schema design, and performance-oriented stored procedures.
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 - `EERD/` – Enhanced Entity Relationship Diagram of the system  
 - `schema/` – SQL scripts to create and initialize the database schema  
@@ -25,13 +22,13 @@
 
 ## 🚀 Project Highlights
 
-- 🔧 **EERD Modeling**: Designed a detailed Enhanced Entity Relationship Diagram to represent key entities and relationships  
-- 🧩 **Relational Schema**: Built normalized schemas to reflect the EERD and enforce data integrity  
-- ⚙️ **Stored Procedures**: Implemented optimized stored procedures to streamline complex database operations  
+- **EERD Modeling**: Designed a detailed Enhanced Entity Relationship Diagram to represent key entities and relationships  
+- **Relational Schema**: Built normalized schemas to reflect the EERD and enforce data integrity  
+- **Stored Procedures**: Implemented optimized stored procedures to streamline complex database operations  
 
 ---
 
-## 📌 Features
+## Features
 
 - Track users, products, and deliveries with structured data  
 - Efficient query execution through reusable stored procedures  
@@ -39,7 +36,7 @@
 
 ---
 
-## 📘 Learning Outcomes
+## Learning Outcomes
 
 - Mastered relational database design and modeling  
 - Translated high-level EERD diagrams into real SQL schemas  
