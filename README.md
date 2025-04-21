@@ -40,5 +40,9 @@
 
 - Mastered relational database design and modeling  
 - Translated high-level EERD diagrams into real SQL schemas  
-- Practiced advanced SQL through hands-on implementation and optimization  
+- Practiced advanced SQL through hands-on implementation and optimization
+
+## Credits
+- This project was developed as part of a university course on Database Systems, applying core concepts in a practical, hands-on assignment.
+
 
