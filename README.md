@@ -43,6 +43,6 @@
 - Practiced advanced SQL through hands-on implementation and optimization
 
 ## Credits
-- This project was developed as part of a university course on Database Systems, applying core concepts in a practical, hands-on assignment.
+- This project was developed as part of a university course on Database Systems.
 
 
